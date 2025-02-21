@@ -14,7 +14,8 @@ section{
 
 .main{
   position: relative;
- 
+   width: 100%;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   background: url(images/Rj.jpg)no-repeat;
