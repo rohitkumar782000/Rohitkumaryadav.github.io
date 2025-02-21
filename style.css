@@ -690,3 +690,17 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
+@media screen and (max-width: 600px) {
+  .main {
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background: url(images/Rj1.jpg)no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  }
