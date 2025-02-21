@@ -21,6 +21,7 @@ section{
   background: url(images/Rj.jpg)no-repeat;
   background-size: cover;
   background-position: center;
+  background-attachment: fixed;
 }
 
 .main .content{
@@ -701,6 +702,7 @@ body{
     background: url(images/Rj1.jpg)no-repeat;
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
   }
   
   }
